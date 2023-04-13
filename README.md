@@ -1,2 +1,2 @@
 # BeastFlow
-A library for making modding of Gang beasts easier. Specifically made for the use of the Cement mod loader. Documentary coming sometime soon!
+A library for making modding of Gang beasts easier. Specifically made for the use of the Cement mod loader. Documentation coming sometime soon!
